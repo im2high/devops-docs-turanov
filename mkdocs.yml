@@ -1,0 +1,14 @@
+site_name: DevOps Operations Handbook
+site_description: Учебная документация по проверке и публикации изменений
+site_author: "Илья Туранов"
+repo_name: im2high/devops-docs-turanov
+repo_url: https://github.com/im2high/devops-docs-turanov
+
+theme:
+  name: mkdocs
+  locale: ru
+
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
